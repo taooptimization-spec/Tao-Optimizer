@@ -1,6 +1,9 @@
 # Tao-Optimizer
 A game optimizer that focuses on tweaking initialization files for mainstream gacha games. It is a lightweight and user-friendly tool designed to help players optimize the performance of certain gacha games on their PC. With customizable presets and resolution settings, users can achieve smoother gameplay while maintaining control over their system resources.
 
+# Games Supported
+Currently, this Optimization tool only supports Wuthering Waves, Genshin Impact (TBA in the future), and ZZZ (TBA in the future) optimization. 
+
 
 # Features
 
