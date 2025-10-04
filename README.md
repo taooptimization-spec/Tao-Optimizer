@@ -13,16 +13,16 @@ A game optimizer that focuses on tweaking initialization files for mainstream ga
   * Rollback Presets: A default preset rollback in case problems occur.
 
   **Resolution Support**
-  Customize your preferred game resolution when applying optimization presets.
+  * Customize your preferred game resolution when applying optimization presets.
 
   **Informational Dashboard**
-  View benchmark info including CPU, RAM, and VRAM recommendations. Since this is a tool created based on the needs of the owner's PC.
+  * View benchmark info including CPU, RAM, and VRAM recommendations. Since this is a tool created based on the needs of the owner's PC.
 
   **Terms of Service & Responsible Use**
-  Access the TOS directly in-app. The tool is not intended for monetization, and users are encouraged to apply optimizations responsibly.
+  * Access the TOS directly in-app. The tool is not intended for monetization, and users are encouraged to apply optimizations responsibly.
 
   **Feedback / Problem Reporting**
-  Submit reports or feedback via Gmail directly from the tool using the integrated Message button.
+  * Submit reports or feedback via Gmail directly from the tool using the integrated Message button.
 
 ---
 
