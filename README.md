@@ -56,14 +56,6 @@ A game optimizer that focuses on tweaking initialization files for mainstream ga
 
 ---
 
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Submit a pull request detailing your changes.
-
----
-
 ## License
 
 This project is **GLU Licensed** – see the [LICENSE](LICENSE) file for details.
