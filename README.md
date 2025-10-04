@@ -28,7 +28,7 @@ A game optimizer that focuses on tweaking initialization files for mainstream ga
 
 ## Installation
 
-1. Download the rar file and run the executable. The executable does not necessarily require admin privileges.
+1. Download the rar file and run the executable. The executable does not necessarily require admin privileges. Download may prompt that it is a virus but it is false positive. This exe is 100% clean.
 
 ---
 
