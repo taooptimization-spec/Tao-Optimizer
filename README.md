@@ -51,7 +51,6 @@ A game optimizer that focuses on tweaking initialization files for mainstream ga
 
 ## Responsible Use
 
-* This tool is **not intended for monetization**.
 * Applying tweaks without understanding them may **affect game performance** or prevent the game from running correctly.
 * The developer is **not responsible** for any hardware or software issues arising but not totally related to the functionalities of the optimizer.
 
