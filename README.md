@@ -6,10 +6,10 @@ A game optimizer that focuses on tweaking initialization files for mainstream ga
 
 **Optimization Presets**
 
-  * Low End I: Minimal graphics and performance-friendly settings.
-  * Low End II: Balanced low-end configuration for slightly better visuals.
-  * Balanced: Default balance between performance and visuals.
-  * High Performance: Advanced optimization for high-end machines (TBR)
+  * Low End I: The game's lowest settings made even low. Still retains visual qualities and is performance friendly at the same time.
+  * Low End II: Extreme low-end configuration for maximum performance. Good for devices that are weaker than the tool's benchmark.
+  * Balanced: Balanced between performance and visuals. 
+  * High Performance: Advanced optimization for high-end machines (TBA)
   * Rollback Presets: A default preset rollback in case problems occur.
 
   **Resolution Support**
@@ -74,9 +74,3 @@ This project is **GLU Licensed** – see the [LICENSE](LICENSE) file for details
 
 For feedback or bug reports, use the integrated **Message button** in the tool or email:
 `taooptimization@gmail.com`
-
----
-
-If you want, I can also create a **fancier version with badges, live preview GIF, and proper table of contents** that’s fully GitHub-ready.
-
-Do you want me to make that version?
