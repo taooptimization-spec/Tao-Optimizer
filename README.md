@@ -1,2 +1,83 @@
 # Tao-Optimizer
-A game optimizer that focuses on tweaking initialization files for mainstream gacha games.
+A game optimizer that focuses on tweaking initialization files for mainstream gacha games. It is a lightweight and user-friendly tool designed to help players optimize the performance of certain gacha games on their PC. With customizable presets and resolution settings, users can achieve smoother gameplay while maintaining control over their system resources.
+
+
+# Features
+
+**Optimization Presets**
+
+  * Low End I: Minimal graphics and performance-friendly settings.
+  * Low End II: Balanced low-end configuration for slightly better visuals.
+  * Balanced: Default balance between performance and visuals.
+  * High Performance: Advanced optimization for high-end machines (TBR)
+  * Rollback Presets: A default preset rollback in case problems occur.
+
+  **Resolution Support**
+  Customize your preferred game resolution when applying optimization presets.
+
+  **Informational Dashboard**
+  View benchmark info including CPU, RAM, and VRAM recommendations. Since this is a tool created based on the needs of the owner's PC.
+
+  **Terms of Service & Responsible Use**
+  Access the TOS directly in-app. The tool is not intended for monetization, and users are encouraged to apply optimizations responsibly.
+
+  **Feedback / Problem Reporting**
+  Submit reports or feedback via Gmail directly from the tool using the integrated Message button.
+
+---
+
+## Installation
+
+1. Download the rar file and run the executable. The executable does not necessarily require admin privileges.
+
+---
+
+## Usage
+
+1. Launch the optimizer.
+2. Select any game from the main menu.
+3. Choose an optimization preset and resolution.
+4. Click **Apply Optimization**.
+5. Optionally, access **TOS** or **Message button** for feedback/reporting.
+
+---
+
+## Screenshots
+
+<img width="996" height="748" alt="image" src="https://github.com/user-attachments/assets/28f39966-168f-4790-8460-17f006760868" />
+
+
+---
+
+## Responsible Use
+
+* This tool is **not intended for monetization**.
+* Applying tweaks without understanding them may **affect game performance** or prevent the game from running correctly.
+* The developer is **not responsible** for any hardware or software issues arising but not totally related to the functionalities of the optimizer.
+
+---
+
+## Contributing
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Submit a pull request detailing your changes.
+
+---
+
+## License
+
+This project is **GLU Licensed** – see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Contact
+
+For feedback or bug reports, use the integrated **Message button** in the tool or email:
+`taooptimization@gmail.com`
+
+---
+
+If you want, I can also create a **fancier version with badges, live preview GIF, and proper table of contents** that’s fully GitHub-ready.
+
+Do you want me to make that version?
