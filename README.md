@@ -49,6 +49,10 @@ Currently, this Optimization tool only supports Wuthering Waves optimization. Wi
 ## Screenshots
 
 <img width="995" height="749" alt="image" src="https://github.com/user-attachments/assets/45d70135-991c-4145-a70d-b5f887b30cae" />
+<img width="995" height="746" alt="image" src="https://github.com/user-attachments/assets/3ee45926-b4e3-4e70-a591-b4e2861f68c1" />
+<img width="990" height="745" alt="image" src="https://github.com/user-attachments/assets/355b5d54-5ca3-4ca2-a634-7b4e3196d039" />
+
+
 
 ---
 
