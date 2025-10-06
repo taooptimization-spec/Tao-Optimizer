@@ -32,7 +32,7 @@ Currently, this Optimization tool only supports Wuthering Waves optimization. Wi
 
 ## Installation
 
-1. Download the rar file and run the executable. The executable does not necessarily require admin privileges. Download may prompt that it is a virus but it is false positive. Disable real-time protection and chrome's antivirus security temporarily, then re-enable it after the download finishes.
+1. Download the **latest** rar file and run the executable. The executable does not necessarily require admin privileges. Download may prompt that it is a virus but it is false positive. Disable real-time protection and chrome's antivirus security temporarily, then re-enable it after the download finishes.
 
 ---
 
@@ -48,8 +48,7 @@ Currently, this Optimization tool only supports Wuthering Waves optimization. Wi
 
 ## Screenshots
 
-<img width="996" height="748" alt="image" src="https://github.com/user-attachments/assets/28f39966-168f-4790-8460-17f006760868" />
-
+<img width="995" height="749" alt="image" src="https://github.com/user-attachments/assets/45d70135-991c-4145-a70d-b5f887b30cae" />
 
 ---
 
