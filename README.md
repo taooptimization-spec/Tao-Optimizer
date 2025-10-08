@@ -4,6 +4,7 @@ A game optimizer that focuses on tweaking initialization files for mainstream ga
 # Games Supported
 Currently, this Optimization tool only supports Wuthering Waves optimization. Will add more games soon.
 * **UPDATE v 1.1.0** Includes Strinova/Calabiyau support optimization.
+* **UPDATE v 1.1.3** Includes Localizations: EN, RU, CN, ID, ES and some small changes.
 
 
 # Features
@@ -14,7 +15,7 @@ Currently, this Optimization tool only supports Wuthering Waves optimization. Wi
   * Low End II: Extreme low-end configuration for maximum performance. Good for devices that are weaker than the tool's benchmark.
   * Balanced: Balanced between performance and visuals. 
   * High Performance: Advanced optimization for high-end machines (TBA)
-  * Rollback Presets: A default preset rollback in case problems occur.
+  * Default Low Presets: A default low preset rollback in case problems occur.
 
   **Resolution Support**
   * Customize your preferred game resolution when applying optimization presets.
