@@ -39,7 +39,7 @@ Currently, this Optimization tool only supports Wuthering Waves optimization. Wi
 
 ## Usage
 
-1. Launch the optimizer.
+1. Launch the optimizer. Sometimes, it needs "Administrative Priviliges" if your game is located in the Program Files repositories.
 2. Select any game from the main menu.
 3. Choose an optimization preset and resolution.
 4. Click **Apply Optimization**.
