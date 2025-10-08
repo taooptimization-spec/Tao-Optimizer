@@ -19,7 +19,7 @@ Currently, this Optimization tool only supports Wuthering Waves optimization. Wi
   **Resolution Support**
   * Customize your preferred game resolution when applying optimization presets.
 
-  **Informational Dashboard**
+  **Informational Dashboard - REMOVED IN-APP IN LATER UPDATES**
   * View benchmark info including CPU, RAM, and VRAM recommendations. Since this is a tool created based on the needs of the owner's PC.
 
   **Terms of Service & Responsible Use**
