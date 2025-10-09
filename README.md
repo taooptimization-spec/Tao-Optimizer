@@ -4,7 +4,7 @@ A game optimizer that focuses on tweaking initialization files for mainstream ga
 # Games Supported
 Currently, this Optimization tool only supports Wuthering Waves optimization. Will add more games soon.
 * **UPDATE v 1.1.0** Includes Strinova/Calabiyau support optimization.
-* **UPDATE v 1.1.3** Includes Localizations: EN, RU, CN, ID, ES and some small changes.
+* **UPDATE v 1.1.3** Includes Localizations: EN, RU, CN, ID, ES and some small UI fixes.
 
 
 # Features
