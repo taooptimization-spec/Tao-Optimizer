@@ -5,6 +5,7 @@ A game optimizer that focuses on tweaking initialization files for mainstream ga
 Currently, this Optimization tool only supports Wuthering Waves optimization. Will add more games soon.
 * **UPDATE v 1.1.0** Includes Strinova/Calabiyau support optimization.
 * **UPDATE v 1.1.3** Includes Localizations: EN, RU, CN, ID, ES and some small UI fixes.
+* **UPDATE v 1.1.4** Removed the *Balanced* preset replacing it with *Potato PC* preset. Fixed some minor translation errors.
 
 
 # Features
@@ -12,9 +13,10 @@ Currently, this Optimization tool only supports Wuthering Waves optimization. Wi
 **Optimization Presets**
 
   * Low End I: The game's lowest settings made even low. Still retains visual qualities and is performance friendly at the same time.
-  * Low End II: Extreme low-end configuration for maximum performance. Good for devices that are weaker than the tool's benchmark.
-  * Balanced: Balanced between performance and visuals. 
-  * High Performance: Advanced optimization for high-end machines (TBA)
+  * Low End II: Low-end configuration leaning towards performance. Lower visual quality than Low End I.
+  * Balanced: Balanced between performance and visuals - **REMOVED in v 1.1.4**
+  * Potato PC: Lowest possible tweak designed for devices that are weaker than the tool's benchmark.
+  * High Performance: Advanced optimization for high-end machines (TBA).
   * Default Low Presets: A default low preset rollback in case problems occur.
 
   **Resolution Support**
